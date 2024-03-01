@@ -25,6 +25,3 @@
 - Pacote Office Intermediário 🧑🏻‍💻
 - Aprendo rápido 🧠
 
-### Contribuições
-
-![snake gif](https://github.com/7081erick/7081erick/blob/output/github-contribution-grid-snake.svg)
