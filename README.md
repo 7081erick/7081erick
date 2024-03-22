@@ -1,5 +1,4 @@
-### Olá meu nome é Erick ✌️  // Estudante FullStack
-
+### Olá meu nome é Erick ✌️  // Data Science
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-michael-059558155/)
 
 ![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=7081erick&show_icons=true&theme=dracula)
